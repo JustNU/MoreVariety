@@ -1,0 +1,171 @@
+{
+    "manifest": [
+		{
+            "key": "MoreVariety/suits/top_gorka_ruaf.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_polevoi_ruaf.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/bottom_polevoi_ruaf.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_pcsshirt_untar_textures.bundle",
+            "dependencyKeys": [
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_pcsshirt_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"MoreVariety/suits/top_pcsshirt_untar_textures.bundle",
+                "shaders",
+                "assets/content/characters/character/usec/usec5/top_usec_pcsshirt.skin_mesh"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_pcsshirt_untar_textures_MTP.bundle",
+            "dependencyKeys": [
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_pcsshirt_untar_MTP.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"MoreVariety/suits/top_pcsshirt_untar_textures_MTP.bundle",
+                "shaders",
+                "assets/content/characters/character/usec/usec5/top_usec_pcsshirt.skin_mesh"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/bottom_gen2_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_combatshirt_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/bottom_cryeprecision_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/bottom_zaslon_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_aggressor_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/bottom_combat_ruaf.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_tiger_ruaf.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_tshirt_followerkilla.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_combatshirt_2_untar.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_blacklynx_followerkilla.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_fsbfastresponse_remnantciv1.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_fsbfastresponse_remnantciv2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_omonjacket_remnantspecops.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_tier2_remnantciv1.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "MoreVariety/suits/top_tier2_remnantciv2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        }
+    ]
+}

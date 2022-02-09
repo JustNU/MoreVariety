@@ -1,0 +1,102 @@
+{
+	"MoreFactions": {
+		"Enabled": true,
+		"Chances": {
+			"RUAF": 20,
+			"UNTAR": 20,
+			"Remnants": 30
+		}
+	},
+	"ScavVariety": {
+		"Enabled": true,
+		"NewCustomFollowers": true,
+		"FollowersInRaiderBotPool": true,
+		"RaiderSpawnChance": 20,
+		"BossSpawnChance": 1
+	},
+	"EnhancedPlayerScav": {
+		"Enabled": true,
+		"RaiderAndFollowersChance": 10,
+		"PmcChance": 10,
+		"BossChance": 1
+	},
+	"BossesOnAllMaps": {
+		"Enabled": false,
+		"ReshalaChance": 10,
+		"GluhkarChance": 10,
+		"KillaChance": 10,
+		"ShturmanChance": 10,
+		"SanitarChance": 10,
+		"TagillaChance": 10,
+		"RaiderSquadChance": 30,
+		"CultistGroupChance": 14,
+		"CanSpawnOnFollowingMaps": {	
+			"Reshala": {
+				"factory4_day": true,
+				"factory4_night": true,
+				"interchange": true,
+				"laboratory": true,
+				"rezervbase": true,
+				"shoreline": true,
+				"woods": true
+			},
+			"Gluhkar": {
+				"bigmap": true,
+				"factory4_day": true,
+				"factory4_night": true,
+				"interchange": true,
+				"laboratory": true,
+				"shoreline": true,
+				"woods": true
+			},
+			"Killa": {
+				"bigmap": true,
+				"factory4_day": true,
+				"factory4_night": true,
+				"laboratory": true,
+				"rezervbase": true,
+				"shoreline": true,
+				"woods": true
+			},
+			"Shturman": {
+				"bigmap": true,
+				"factory4_day": true,
+				"factory4_night": true,
+				"interchange": true,
+				"laboratory": true,
+				"rezervbase": true,
+				"shoreline": true
+			},
+			"Sanitar": {
+				"bigmap": true,
+				"factory4_day": true,
+				"factory4_night": true,
+				"interchange": true,
+				"laboratory": true,
+				"rezervbase": true,
+				"woods": true
+			},
+			"Tagilla": {
+				"bigmap": true,
+				"interchange": true,
+				"laboratory": true,
+				"rezervbase": true,
+				"woods": true,
+				"shoreline": true
+			},
+			"RaiderSquad": {
+				"bigmap": true,
+				"factory4_day": true,
+				"factory4_night": true,
+				"interchange": true,
+				"shoreline": true,
+				"woods": true
+			},
+			"CultistGroup": {
+				"interchange": true,
+				"rezervbase": true
+			}
+		}
+	},
+	"DebugEnabled": true
+}
